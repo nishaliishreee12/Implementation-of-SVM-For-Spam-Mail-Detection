@@ -28,8 +28,8 @@ To write a Python program to implement Support Vector Machine (SVM) for detectin
 ```python
 # Program to implement SVM for Spam Mail Detection.
 #
-# Developed by:
-# RegisterNumber:
+# Developed by: NISHALI SHREE R
+# RegisterNumber:212225080036
 
 import pandas as pd
 
